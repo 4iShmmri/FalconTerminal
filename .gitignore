@@ -1,0 +1,18 @@
+# Build artifacts
+.build/
+build/
+*.dmg
+*.icns
+DerivedData/
+
+# SwiftPM
+Package.resolved
+
+# macOS
+.DS_Store
+*.swp
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
