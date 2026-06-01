@@ -1,9 +1,9 @@
 # Build artifacts
 .build/
 build/
-*.dmg
-*.icns
 DerivedData/
+# Note: the distributable FalconTerminal.dmg at the repo root is tracked
+# intentionally so it sits next to the README.
 
 # SwiftPM
 Package.resolved

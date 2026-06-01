@@ -8,6 +8,14 @@ VT/ANSI parser rendered with CoreText.
 ![Swift](https://img.shields.io/badge/Swift-6-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## ⬇️ Download
+
+**[FalconTerminal.dmg](FalconTerminal.dmg)** (in this repo) — or grab it from the
+[latest release](https://github.com/4iShmmri/FalconTerminal/releases/latest).
+
+Open the DMG and drag **Falcon Terminal** to **Applications**. On first launch,
+right-click ▸ **Open** (the build is ad-hoc signed, not notarized).
+
 ## Features
 
 - **Real PTY engine** (`forkpty`) — one shell, environment, and working
